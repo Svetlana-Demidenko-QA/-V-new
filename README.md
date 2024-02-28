@@ -1,2 +1,2 @@
-# Svetlana-Demidenko-QA.github.io
+# CV-new
 Сайт визитка на HTML и CSS
